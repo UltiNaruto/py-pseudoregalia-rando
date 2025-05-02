@@ -1,0 +1,4 @@
+[submodule "rando"]
+	path = rando
+	url = https://github.com/UltiNaruto/rando.git
+	branch = randovania
